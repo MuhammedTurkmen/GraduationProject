@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5106254498843146949a2500d053e90, type: 3}
+  m_Name: Automatic Machine
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 2483323003193231014, guid: 92211779169ed644ca5c812b59a23fd2, type: 3}
+  Visual: {fileID: 2483323003193231014, guid: f6b6111569202be41a7956e86784c9ed, type: 3}
+  Width: 2
+  Height: 2
+  BuildingName: Automatic Machine
+  TurnAble: 1

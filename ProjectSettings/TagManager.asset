@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object
+  - ProcessIconButton
+  - ProcessIcon
+  - ProcessConnector
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - HitBox
+  - Water
+  - UI
+  - Player
+  - Item
+  - Machine
+  - Conveyor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground6
+    uniqueID: 2178026049
+    locked: 0
+  - name: Ground5
+    uniqueID: 2087088711
+    locked: 0
+  - name: Ground4
+    uniqueID: 1989806437
+    locked: 0
+  - name: Item
+    uniqueID: 1469322649
+    locked: 0
+  - name: Ground3
+    uniqueID: 402936197
+    locked: 0
+  - name: Ground2
+    uniqueID: 371940809
+    locked: 0
+  - name: Ground1
+    uniqueID: 363082905
+    locked: 0
+  - name: Player
+    uniqueID: 1306898775
+    locked: 0
+  - name: UI
+    uniqueID: 3484153017
+    locked: 0

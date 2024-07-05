@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46ff47d4e3fcce349b931f420ad3b833, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  _snapInput: 1
+  _verticalDeadZoneThreshold: 0.3
+  _horizontalDeadZoneThreshold: 0.1
+  _maxWalkSpeed: 6
+  _acceleration: 35
+  _deceleration: 45
+  _maxDashSpeed: 20
+  _minDashSpeed: 6
+  _dashDeceleration: 30
+  _throwForce: 5
+  _objectMask:
+    serializedVersion: 2
+    m_Bits: 128
+  _machineMask:
+    serializedVersion: 2
+    m_Bits: 256
+  _holdDistance: 2
+  _holdCastSizeX: 2
+  _holdCastSizeY: 0.5

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07b7d99573752b44480440fce4153cd7, type: 3}
+  m_Name: Wood Leg Pack
+  m_EditorClassIdentifier: 
+  _itemSprite: {fileID: 21300000, guid: f52026969c229db449b6d7c3448c7486, type: 3}
+  _item: 5
+  _usingPlacessProcessTypes: 02000000
+  _creatingProcessTypes: 02000000
+  RequiredItems:
+  - {fileID: 11400000, guid: 86330ca9169025344b98f9d070f03818, type: 2}
+  - {fileID: 11400000, guid: 86330ca9169025344b98f9d070f03818, type: 2}
+  - {fileID: 11400000, guid: 86330ca9169025344b98f9d070f03818, type: 2}
+  - {fileID: 11400000, guid: 86330ca9169025344b98f9d070f03818, type: 2}
+  _createdItemCount: 1
